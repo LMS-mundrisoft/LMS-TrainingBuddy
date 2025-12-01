@@ -1,0 +1,6 @@
+@LMSTrainingBuddy.API_HostAddress = http://localhost:5245
+
+GET {{LMSTrainingBuddy.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
